@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "tauri": "WEBKIT_DISABLE_DMABUF_RENDERER=1 tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.9.6"
+  }
+}

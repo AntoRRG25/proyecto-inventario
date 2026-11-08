@@ -1,0 +1,4 @@
+inventory.db
+inventory.db-journal
+inventory.db-shm
+inventory.db-wal
